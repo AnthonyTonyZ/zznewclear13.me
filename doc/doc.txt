@@ -1,0 +1,7 @@
+--------------------构建自己的作品集模板--------------------
+	+thumb('design',//demo
+	    '/lagos-stadium-competition.html',//跳转链接 等于md文件中的path
+	    'design_01',//图片
+	    'Lagos-Stadium-Competition',//名称
+	    //日期
+	    'Dec 17, 2018')
