@@ -14,11 +14,11 @@ Perhaps the fantasy of having my own world began as early as middle school or hi
 Initially, it was envisioned as a massive visual game, but halfway through development, I realized its sheer scale was overwhelming. Consequently, I extracted the core gameplay mechanics and created a demo instead.
 
 Here's a brief overview of the current pages:
-![boss房](../images/articles/game_01/boss房.png)
-![冰洞](../images/articles/game_01/冰洞.png)
-![熔岩洞](../images/articles/game_01/熔岩洞.png)
-![石洞](../images/articles/game_01/石洞.png)
-![被诅咒的山洞](../images/articles/game_01/被诅咒的山洞.png)
+![boss房](../images/articles/game_01/BossRoom.png)
+![冰洞](../images/articles/game_01/IceCave.png)
+![熔岩洞](../images/articles/game_01/LavaCave.png)
+![石洞](../images/articles/game_01/StoneCave.png)
+![被诅咒的山洞](../images/articles/game_01/CursedCave.png)
 
 So far, only the Tester and the Blade Master characters have been tested, with the Wolf and Bear characters likely serving more as decorative placeholders.
 
