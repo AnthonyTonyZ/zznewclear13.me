@@ -3,7 +3,7 @@ const metamarked = require('meta-marked');
 const fs = require('fs');
 
 const PAGE_MARKDOWN_PATH = path.join(__dirname, './posts');
-const PAGE_OUTPUT_PATH = path.join(__dirname, './dist/posts');
+const PAGE_OUTPUT_PATH = path.join(__dirname, './webapp/posts');
 
 
 const loadMarkdownPage = (mdFilename) => {
@@ -17,7 +17,7 @@ const loadMarkdownPage = (mdFilename) => {
 const parseMarkdown = (mdString = '') => {
     return metamarked(mdString.toString());
 }
-  
+
 let routes = fs.readdirSync(PAGE_MARKDOWN_PATH)
 
 module.exports = [
@@ -37,5 +37,5 @@ module.exports = [
             bodyHTML: md.html
         }
     })
-  
+
 ];

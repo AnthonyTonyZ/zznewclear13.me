@@ -6,7 +6,7 @@ module.exports = merge(common, {
     mode: 'development',
     devtool: 'inline-source-map',
     devServer: {
-        contentBase: path.join(__dirname, '/dist'),
+        contentBase: path.join(__dirname, '/webapp'),
         compress: true,
         port: 3000,
         hot: true

@@ -16,7 +16,7 @@ function recursiveIssuer(m) {
       return false;
     }
   }
-  
+
 module.exports = {
     entry: {
         app: './src/index.js',
@@ -65,7 +65,7 @@ module.exports = {
 
     output: {
         filename: '[name].bundle.js',
-        path: path.resolve(__dirname, 'dist'),
+        path: path.resolve(__dirname, 'webapp'),
         //publicPath: './'
     },
 
