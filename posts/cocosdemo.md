@@ -36,8 +36,6 @@ Below are some screenshots of the monsters and a gameplay video to give you a gl
 ![胖胖龙](../images/articles/game_02/胖胖龙.jpg)
 ![胡子喵](../images/articles/game_02/胡子喵.jpg)
 
-[comment]: <> ([Game video]&#40;https://www.douyin.com/video/7418545222696701222&#41;)
-
 ## Join the Discussion:
 
 I invite everyone to join in the discussion and share their thoughts on the game's development. Whether you're a fellow developer with advice or a potential player with feedback, your input is valuable.
