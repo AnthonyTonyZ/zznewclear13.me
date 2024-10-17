@@ -1,4 +1,4 @@
 {
-  "build_command": "npm install webpack webpack-cli webpack-dev-server webpack-merge --save-dev&&webpack --config webpack.prod.js --NODE_ENV='production'",
+  "build_command": "npm install webpack webpack-cli webpack-dev-server webpack-merge --save-dev",
   "start_command": "SET NODE_ENV=development&&webpack-dev-server --open --config webpack.dev.js"
 }
