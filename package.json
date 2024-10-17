@@ -6,6 +6,9 @@
   "dependencies": {
     "lodash": "^4.17.15"
   },
+  "engines": {
+    "node": "14.18.3"
+  },
   "devDependencies": {
     "@babel/core": "^7.7.7",
     "@babel/preset-env": "^7.7.7",
