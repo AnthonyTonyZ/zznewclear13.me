@@ -31,3 +31,5 @@ There are 24 types of minions, featuring 9 different elemental weaknesses/streng
 Armor-wise, there are 32 pieces, though I haven't had the chance to thoroughly test them all and prefer not to elaborate further at this point.
 
 Further development and details are yet to be finalized. For a more comprehensive look, please feel free to reach out via email. I'll make time to elaborate and refine the information as needed.
+
+[Game address](https://rpg1.zeabur.app/)
