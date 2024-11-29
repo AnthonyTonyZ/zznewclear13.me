@@ -34,6 +34,8 @@ You can click the following link to experience the game and see how a little sol
 
 [Game Experience Address](https://goanthony.netlify.app/)
 
+The first loading takes about 1 minute
+
 
 ## Join the Discussion:
 
