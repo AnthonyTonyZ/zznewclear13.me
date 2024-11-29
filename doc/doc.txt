@@ -4,3 +4,5 @@
 	    'design_01',//图片
 	    'Lagos-Stadium-Competition',//名称
 	    'Dec 17, 2018')//日期
+
+	操作文件顺序

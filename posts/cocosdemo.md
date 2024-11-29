@@ -47,4 +47,4 @@ I invite everyone to join in the discussion and share their thoughts on the game
 ## Contact:
 
 - **Email**: [interestingol@foxmail.com](mailto:example@example.com)
-- **Gitee**: [@yourusername](https://gitee.com/yourusername)
+- **Gitee**: [@yourusername](https://gitee.com/zgn_13200126222)
