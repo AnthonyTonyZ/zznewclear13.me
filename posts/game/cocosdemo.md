@@ -26,8 +26,8 @@ While the game is functional, there is plenty of room for optimization. My skill
 
 Below are some screenshots of the monsters and a gameplay video to give you a glimpse into the current state of the project.
 
-![Aula](../images/articles/game_02/Aula.jpg)
-![Magician](../images/articles/game_02/Magician.jpg)
+![Aula](images/articles/game_02/Aula.jpg)
+![Magician](images/articles/game_02/Magician.jpg)
 ![企鹅_羽饰骑士](../images/articles/game_02/企鹅_羽饰骑士.jpg)
 ![哨兵_符灵](../images/articles/game_02/哨兵_符灵.jpg)
 ![皮克蜥](../images/articles/game_02/皮克蜥.jpg)
