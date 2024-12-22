@@ -30,6 +30,24 @@ Here are some background and material images of the game to give you a prelimina
 
 ## Game Experience:
 
+### Game Overview
+
+- **Buff Selection:**
+    - Located at the top right corner of the game interface, players can select from various buffs.
+    - There are three types of random buffs currently available, each with the capability to be upgraded to level three.
+    - Upon game restart, all buffs are reset to their initial state.
+
+- **Enemy Minions:**
+    - Enemy minions gradually increase in strength over time.
+    - Defeating enemy minions drops resources.
+    - Resources collected can be used to purchase your own soldiers.
+
+- **Our Troops:**
+    - There are three types of troops available for the player's army.
+
+- **Victory Condition:**
+    - The game is won by destroying the opponent's base.
+
 You can click the following link to experience the game and see how a little soldier bravely charges through numerous obstacles.
 
 [Game Experience Address](https://goanthony.netlify.app/)
