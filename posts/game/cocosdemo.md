@@ -36,7 +36,7 @@ Below are some screenshots of the monsters and a gameplay video to give you a gl
 ![胖胖龙](../images/articles/game_02/胖胖龙.jpg)
 ![胡子喵](../images/articles/game_02/胡子喵.jpg)
 
-[Game address](https://cocos1.zeabur.app/)
+[Game address](https://rouge-cocos.netlify.app/)
 
 The first time it takes 3 minutes to load domestically, approximately 170M.
 

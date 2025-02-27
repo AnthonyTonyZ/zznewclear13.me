@@ -32,4 +32,4 @@ Armor-wise, there are 32 pieces, though I haven't had the chance to thoroughly t
 
 Further development and details are yet to be finalized. For a more comprehensive look, please feel free to reach out via email. I'll make time to elaborate and refine the information as needed.
 
-[Game address](https://rpg1.zeabur.app/)
+[Game address](https://rougedemo.netlify.app/)
