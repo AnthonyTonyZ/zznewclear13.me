@@ -35,8 +35,10 @@ function readDirectoryFiles(directoryPath) {
             // 递归读取子目录
             files = files.concat(readDirectoryFiles(entryPath));
         } else {
-            // 添加文件到列表
-            files.push(entryPath);
+            // 添加md文件到列表
+            if (entryPath.endsWith('.md')) {
+                files.push(entryPath);
+            }
         }
         console.log(entryPath)
     }
