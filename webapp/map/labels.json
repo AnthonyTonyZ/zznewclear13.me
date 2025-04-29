@@ -1,0 +1,53 @@
+{
+  "cities": [
+    {"code":"eld","font_size":6,"name":{"cn":"鄂尔多斯","en":"Ordos"},"coord":[109.78,39.6]},
+    {"code":"daq","font_size":6,"name":{"cn":"大庆","en":"Daqing"},"coord":[125,46.35]},
+    {"code":"daz","font_size":6,"name":{"cn":"达州","en":"Dazhou"},"coord":[107.28,31.12]},
+    {"code":"ans","font_size":6,"name":{"cn":"鞍山","en":"Anshan"},"coord":[123,41.07]},
+    {"code":"dex","font_size":6,"name":{"cn":"德兴","en":"Dexing"},"coord":[117.35,28.57]},
+    {"code":"yaq","font_size":6,"name":{"cn":"阳泉","en":"Yangquan"},"coord":[113.34,37.51]},
+    {"code":"zhy","font_size":6,"name":{"cn":"招远","en":"Zhaoyuan"},"coord":[120.23,37.21]},
+    {"code":"chf","font_size":6,"name":{"cn":"赤峰","en":"Chifeng"},"coord":[118.57,42.16]},
+    {"code":"wfd","font_size":6,"name":{"cn":"瓦房店","en":"Wafangdian"},"coord":[121.57,39.37]},
+    {"code":"doh","font_size":6,"name":{"cn":"东海","en":"Donghai"},"coord":[118.45,34.32]},
+    {"code":"yuc","font_size":6,"name":{"cn":"运城","en":"Yuncheng"},"coord":[111,35.02]}
+  ],
+  "countries": [
+    {
+      "iso3": "ITA",
+      "iso2": "IT",
+      "font_size": 2.51796436,
+      "name": {
+        "en": "Italy"
+      },
+      "coord": [
+        12.24784440000002,
+        42.79763050166345
+      ]
+    },
+    {
+      "iso3": "CHN",
+      "iso2": "CN",
+      "font_size": 8.297616,
+      "name": {
+        "en": "China"
+      },
+      "coord": [
+        100.0381212,
+        34.5914045595505
+      ]
+    },
+    {
+      "iso3": "RUS",
+      "iso2": "RU",
+      "font_size": 10.34348106,
+      "name": {
+        "en": "Russia"
+      },
+      "coord": [
+        96.43939559999997,
+        61.58821111848236
+      ]
+    }
+  ]
+}
